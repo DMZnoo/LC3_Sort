@@ -228,7 +228,7 @@ HALT
 
     OUTPUTSTRING .stringz "\nYou have entered: "
 
-    MY_NAME .stringz "Jinwoo Lee :18018154\n"
+    MY_NAME .stringz "Jinwoo Lee\n"
 
     NEWLINE_NEG .FILL x-000A
 
